@@ -6,7 +6,7 @@ import statsmodels.api as sm
 data = pd.read_csv('your_data.csv')
 
 # Step 2: Explore and clean the data
-# Check for missing values, outliers, and data types
+# Check for missing values, outliers, and data type
 
 # Step 3: Define variables
 dependent_variable = 'post_acquisition_dynamics'
